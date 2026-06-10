@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--
+
 **qixingovo/qixingovo** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 <details>
@@ -18,4 +18,4 @@
 - 📫 How to reach me:
 - 😄 Pronouns:
 - ⚡ Fun fact: Combine ACM algorithm logic with agent‑automated programming.
--->
+
